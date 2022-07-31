@@ -1,11 +1,11 @@
 # Credit_Risk_Analysis
 
 ## Overview
-Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, you’ll need to employ different techniques to train and evaluate models with unbalanced classes
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, you’ll need to employ different techniques to train and evaluate models with unbalanced classes.
 
 
 ## Results
-Reviews from both Vine reviewers and non-Vine reviewers were analyzed to see what percentage of reviewers are leaving 5-star reviews.
+Here are the results from the different techniques.
 
 -SMOTE
 
