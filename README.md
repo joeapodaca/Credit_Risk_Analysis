@@ -30,4 +30,4 @@ Reviews from both Vine reviewers and non-Vine reviewers were analyzed to see wha
 
 
 # Summary
-Most of the predictions are very similar, but one stands out.  Adadboost has the most accuracy in its predictions.
+Most of the predictions are very similar, but one stands out.  Adaboost has the most accurate predictions.
