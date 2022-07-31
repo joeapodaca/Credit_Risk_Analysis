@@ -29,5 +29,14 @@ Reviews from both Vine reviewers and non-Vine reviewers were analyzed to see wha
 ![random_oversampling_report](https://github.com/joeapodaca/Credit_Risk_Analysis/blob/main/random_oversampling_report.JPG)
 
 
+-Undersampling_score
+
+![undersampling_score](https://github.com/joeapodaca/Credit_Risk_Analysis/blob/main/undersampling_score.JPG)
+
+-Combination_scores
+
+![combination_scores](https://github.com/joeapodaca/Credit_Risk_Analysis/blob/main/combination_scores.JPG)
+
+
 # Summary
 Most of the predictions are very similar, but one stands out.  Adaboost has the most accurate predictions.
